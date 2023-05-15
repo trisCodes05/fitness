@@ -1,6 +1,6 @@
 body {
   font-family: "Josefin Sans";
-  background-color: #252526;
+  /* background-color: #252526; */
 }
 
 @font-face {
@@ -162,8 +162,8 @@ body {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url('./assets/images/Banner3.jpg');
-  opacity: 0.3; 
+  background-image: url('./assets/images/Back_Background.svg');
+  opacity: 0.9; 
   background-repeat: no-repeat;
   background-size: cover;
 }

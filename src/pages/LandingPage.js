@@ -10,7 +10,7 @@ const LandingPage = () => {
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
-          zIndex:1
+          zIndex:1,
         }}
       >
         <Stack border="2px dashed #fff" px="25px" mt="10%">
@@ -24,7 +24,7 @@ const LandingPage = () => {
             }}
             mb="23px"
             mt="25px"
-            color="#fff"
+            color="#eeeeff"
             textAlign="center"
             variant="h3"
             fontFamily= 'Courgette'
