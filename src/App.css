@@ -162,7 +162,7 @@ body {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url('./assets/images/Back_Background.svg');
+  background-image: url('./assets/images/Banner.svg');
   opacity: 0.9; 
   background-repeat: no-repeat;
   background-size: cover;
